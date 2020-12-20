@@ -1,0 +1,31 @@
+.navbar{
+    background-color:darkturquoise;
+}
+
+.navbar .txt{
+    color:white
+}
+
+.list {
+  
+    max-width: 60%;
+}
+
+.h4{
+    margin:10px;
+    
+}
+
+.edit{
+    margin:10px 600px 10px 10px
+}
+
+
+.detail{
+    background-color:#b6f0f1;
+    color:black
+}
+
+.info{
+    color:#17A2B8
+}
